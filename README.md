@@ -4,11 +4,11 @@
 ### Set up
 1. git clone project
     ```
-    git clone https://nas.pdogs.ntu.im:30443/pdogs/pdogs-6/backend-entry-task/entry_test_jtc.git
+    git clone https://github.com/jtongchenzip/pd6-backend-entrytask.git
     ```
-2. change directory to `entry_test_jtc`
+2. change directory to `pd6-backend-entrytask`
     ```
-    cd entry_test_jtc
+    cd pd6-backend-entrytask
     ```
 
 3. create conda environment  
