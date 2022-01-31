@@ -1,0 +1,6 @@
+fastapi==0.63.0  # version fixed due to complete re-overriding fastapi objects 1
+pydantic  # version fixed by fastapi 1
+python-dotenv
+psycopg2
+typing
+uvicorn

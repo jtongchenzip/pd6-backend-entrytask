@@ -1,0 +1,9 @@
+.idea
+__pycache__
+db-data
+venv
+
+.env
+docker-compose.yaml
+
+
